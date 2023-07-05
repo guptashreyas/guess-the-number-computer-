@@ -1,1 +1,2 @@
 # guess-the-number-computer-
+A Python program where the computer uses a binary search algorithm to guess a number chosen by the user. The program prompts the user to think of a number between a specified range, and the computer makes guesses based on the user's feedback of 'too high', 'too low', or 'correct'. The computer dynamically adjusts its guesses to narrow down the range until it successfully guesses the user's number
